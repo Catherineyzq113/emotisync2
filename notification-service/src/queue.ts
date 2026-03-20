@@ -5,10 +5,19 @@ import { sendPush, PushSubscriptionData } from './push';
 const redisUrl = process.env.REDIS_URL || 'redis://localhost:6379';
 export const redis = new Redis(redisUrl, { maxRetriesPerRequest: null });
 
+// Parse URL into plain options to avoid ioredis version conflict with BullMQ's bundled ioredis
+const parsedUrl = new URL(redisUrl);
+const bullConnection = {
+  host: parsedUrl.hostname,
+  port: Number(parsedUrl.port) || 6379,
+  ...(parsedUrl.password ? { password: decodeURIComponent(parsedUrl.password) } : {}),
+  ...(parsedUrl.protocol === 'rediss:' ? { tls: {} } : {}),
+};
+
 const SUBSCRIPTION_KEY = 'emotisync:subscription';
 
 export const notificationQueue = new Queue('notifications', {
-  connection: redis,
+  connection: bullConnection,
 });
 
 export function startWorker(): void {
@@ -35,7 +44,7 @@ export function startWorker(): void {
         taskName,
       };
 
-      await sendPush(subscription, payload).catch((err: NodeJS.ErrnoException) => {
+      await sendPush(subscription, payload).catch((err: any) => {
         // 410 = subscription expired or invalid; clean it up
         if (err.statusCode === 410) {
           console.warn('EmotiSync: Push subscription expired, removing from Redis');
@@ -45,7 +54,7 @@ export function startWorker(): void {
         }
       });
     },
-    { connection: redis }
+    { connection: bullConnection }
   );
 
   worker.on('failed', (job, err) => {
