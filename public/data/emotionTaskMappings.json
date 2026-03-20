@@ -1,0 +1,1742 @@
+[
+    {
+        "Unnamed: 0":1.0,
+        "Subject":"tennis",
+        "Before Task Emotion":"calmness",
+        "After Task Emotion":"calmness",
+        "Category":"sports",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"tennis"
+    },
+    {
+        "Unnamed: 0":2.0,
+        "Subject":"Algorithm reading",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"relief",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"Algorithm reading"
+    },
+    {
+        "Unnamed: 0":5.0,
+        "Subject":"Update walk xr project",
+        "Before Task Emotion":"boredom",
+        "After Task Emotion":"calmness",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"Update walk xr project"
+    },
+    {
+        "Unnamed: 0":6.0,
+        "Subject":"Spatial Ux Class",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"relief",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"Spatial Ux Class"
+    },
+    {
+        "Unnamed: 0":7.0,
+        "Subject":"tennis sign up",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"contentment",
+        "Category":"sports",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":"tennis sign up"
+    },
+    {
+        "Unnamed: 0":10.0,
+        "Subject":"Buy golf dress",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"confidence",
+        "Category":"leisure",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"Buy golf dress"
+    },
+    {
+        "Unnamed: 0":13.0,
+        "Subject":"AR parttime work",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"confidence",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"AR parttime work"
+    },
+    {
+        "Unnamed: 0":14.0,
+        "Subject":"Revise CV",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"confidence",
+        "Category":"job apply",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"Revise CV"
+    },
+    {
+        "Unnamed: 0":15.0,
+        "Subject":"Spatial ux homework",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"joy",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"Spatial ux homework"
+    },
+    {
+        "Unnamed: 0":16.0,
+        "Subject":"Design Intelligence homework",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"contentment",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"Design Intelligence homework"
+    },
+    {
+        "Unnamed: 0":17.0,
+        "Subject":"AR task",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"confidence",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"AR task"
+    },
+    {
+        "Unnamed: 0":18.0,
+        "Subject":"golf",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"joy",
+        "Category":"sports",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"golf"
+    },
+    {
+        "Unnamed: 0":19.0,
+        "Subject":"prepare XR project",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"gratitude",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"prepare XR project"
+    },
+    {
+        "Unnamed: 0":21.0,
+        "Subject":"Studio check meeting",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"joy",
+        "Category":"study",
+        "Duration":3.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"Studio check meeting"
+    },
+    {
+        "Unnamed: 0":23.0,
+        "Subject":"huawei meeting",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"calmness",
+        "Category":"job apply",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"huawei meeting"
+    },
+    {
+        "Unnamed: 0":24.0,
+        "Subject":"Studio work",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"gratitude",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"Studio work"
+    },
+    {
+        "Unnamed: 0":26.0,
+        "Subject":"walk XR meeting",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"contentment",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"walk XR meeting"
+    },
+    {
+        "Unnamed: 0":27.0,
+        "Subject":"Dinner with friends",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"gratitude",
+        "Category":"leisure",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"Dinner with friends"
+    },
+    {
+        "Unnamed: 0":28.0,
+        "Subject":"spatial ux homework",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"contentment",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"spatial ux homework"
+    },
+    {
+        "Unnamed: 0":29.0,
+        "Subject":"AR assets parttime job",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"contentment",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"AR assets parttime job"
+    },
+    {
+        "Unnamed: 0":31.0,
+        "Subject":"review WalkXR project",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"relief",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"review WalkXR project"
+    },
+    {
+        "Unnamed: 0":32.0,
+        "Subject":"We-Designs Mattercraft Session",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"contentment",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"We-Designs Mattercraft Session"
+    },
+    {
+        "Unnamed: 0":33.0,
+        "Subject":"Acupuncture appointment",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"relief",
+        "Category":"health",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"Acupuncture appointment"
+    },
+    {
+        "Unnamed: 0":35.0,
+        "Subject":"YSSEN web parttime job",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"gratitude",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"YSSEN web parttime job"
+    },
+    {
+        "Unnamed: 0":36.0,
+        "Subject":"DI product miroboard prepare",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"joy",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"DI product miroboard prepare"
+    },
+    {
+        "Unnamed: 0":37.0,
+        "Subject":"golf",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"confidence",
+        "Category":"sports",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"golf"
+    },
+    {
+        "Unnamed: 0":38.0,
+        "Subject":"YSSEN Webite design",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"relief",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"YSSEN Webite design"
+    },
+    {
+        "Unnamed: 0":41.0,
+        "Subject":"dinner",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"relief",
+        "Category":"leisure",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"dinner"
+    },
+    {
+        "Unnamed: 0":42.0,
+        "Subject":"exhibition",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"contentment",
+        "Category":"leisure",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"exhibition"
+    },
+    {
+        "Unnamed: 0":43.0,
+        "Subject":"YSSEN web parttime job",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"contentment",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"YSSEN web parttime job"
+    },
+    {
+        "Unnamed: 0":44.0,
+        "Subject":"golf",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"calmness",
+        "Category":"sports",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"golf"
+    },
+    {
+        "Unnamed: 0":45.0,
+        "Subject":"AR import parttime job",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"joy",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"AR import parttime job"
+    },
+    {
+        "Unnamed: 0":46.0,
+        "Subject":"dri",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"calmness",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"dri"
+    },
+    {
+        "Unnamed: 0":47.0,
+        "Subject":"apply apm job",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"relief",
+        "Category":"job apply",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"apply apm job"
+    },
+    {
+        "Unnamed: 0":48.0,
+        "Subject":"studio homework",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"confidence",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"studio homework"
+    },
+    {
+        "Unnamed: 0":49.0,
+        "Subject":"XR roadmap prepare",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"calmness",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"XR roadmap prepare"
+    },
+    {
+        "Unnamed: 0":51.0,
+        "Subject":"Studio check meeting",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"contentment",
+        "Category":"study",
+        "Duration":3.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"Studio check meeting"
+    },
+    {
+        "Unnamed: 0":52.0,
+        "Subject":"golf",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"gratitude",
+        "Category":"sports",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"golf"
+    },
+    {
+        "Unnamed: 0":53.0,
+        "Subject":"tennis",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"joy",
+        "Category":"sports",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"tennis"
+    },
+    {
+        "Unnamed: 0":55.0,
+        "Subject":"buy gift for Jennifer",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"relief",
+        "Category":"leisure",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"buy gift for Jennifer"
+    },
+    {
+        "Unnamed: 0":56.0,
+        "Subject":"apply",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"calmness",
+        "Category":"job apply",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"apply"
+    },
+    {
+        "Unnamed: 0":57.0,
+        "Subject":"seeing with algorithm homework",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"relief",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"seeing with algorithm homework"
+    },
+    {
+        "Unnamed: 0":59.0,
+        "Subject":"SPATIAL UX READING",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"relief",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"SPATIAL UX READING"
+    },
+    {
+        "Unnamed: 0":61.0,
+        "Subject":"walkxr roadmap prepare",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"contentment",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"walkxr roadmap prepare"
+    },
+    {
+        "Unnamed: 0":64.0,
+        "Subject":"Yssen webiste design",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"joy",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"Yssen webiste design"
+    },
+    {
+        "Unnamed: 0":65.0,
+        "Subject":"club party",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"confidence",
+        "Category":"leisure",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"club party"
+    },
+    {
+        "Unnamed: 0":66.0,
+        "Subject":"supply chain Class",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"calmness",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"supply chain Class"
+    },
+    {
+        "Unnamed: 0":67.0,
+        "Subject":"shopping",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"calmness",
+        "Category":"leisure",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"shopping"
+    },
+    {
+        "Unnamed: 0":68.0,
+        "Subject":"dinner",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"confidence",
+        "Category":"leisure",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"dinner"
+    },
+    {
+        "Unnamed: 0":69.0,
+        "Subject":"Studio check meeting",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"gratitude",
+        "Category":"study",
+        "Duration":3.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"Studio check meeting"
+    },
+    {
+        "Unnamed: 0":70.0,
+        "Subject":"seeing with algorithm Class",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"gratitude",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"seeing with algorithm Class"
+    },
+    {
+        "Unnamed: 0":72.0,
+        "Subject":"algorithm filter",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"joy",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"algorithm filter"
+    },
+    {
+        "Unnamed: 0":73.0,
+        "Subject":"sxj golf",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"confidence",
+        "Category":"sports",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"sxj golf"
+    },
+    {
+        "Unnamed: 0":74.0,
+        "Subject":"HW spatial ux",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"relief",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"HW spatial ux"
+    },
+    {
+        "Unnamed: 0":76.0,
+        "Subject":"DI product homework",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"confidence",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"DI product homework"
+    },
+    {
+        "Unnamed: 0":77.0,
+        "Subject":"usc renuion party",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"gratitude",
+        "Category":"leisure",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"usc renuion party"
+    },
+    {
+        "Unnamed: 0":78.0,
+        "Subject":"CGELA club tasks",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"calmness",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"CGELA club tasks"
+    },
+    {
+        "Unnamed: 0":79.0,
+        "Subject":"hw spatial ux",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"confidence",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"hw spatial ux"
+    },
+    {
+        "Unnamed: 0":80.0,
+        "Subject":"AR",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"relief",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"AR"
+    },
+    {
+        "Unnamed: 0":82.0,
+        "Subject":"WE-DESIGNS Mattercraft Debugging Session ",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"confidence",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"WE-DESIGNS Mattercraft Debugging Session "
+    },
+    {
+        "Unnamed: 0":84.0,
+        "Subject":"studio",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"joy",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"studio"
+    },
+    {
+        "Unnamed: 0":86.0,
+        "Subject":"acupuncture",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"contentment",
+        "Category":"health",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"acupuncture"
+    },
+    {
+        "Unnamed: 0":87.0,
+        "Subject":"golf",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"joy",
+        "Category":"sports",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"golf"
+    },
+    {
+        "Unnamed: 0":88.0,
+        "Subject":"AR",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"calmness",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"AR"
+    },
+    {
+        "Unnamed: 0":89.0,
+        "Subject":"portfolio",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"relief",
+        "Category":"job apply",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"portfolio"
+    },
+    {
+        "Unnamed: 0":90.0,
+        "Subject":"Apply",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"gratitude",
+        "Category":"job apply",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"Apply"
+    },
+    {
+        "Unnamed: 0":91.0,
+        "Subject":"sign tennis",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"relief",
+        "Category":"sports",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"sign tennis"
+    },
+    {
+        "Unnamed: 0":93.0,
+        "Subject":"tennis",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"gratitude",
+        "Category":"sports",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"tennis"
+    },
+    {
+        "Unnamed: 0":95.0,
+        "Subject":"golf",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"calmness",
+        "Category":"sports",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"golf"
+    },
+    {
+        "Unnamed: 0":96.0,
+        "Subject":"Ktv",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"relief",
+        "Category":"leisure",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"Ktv"
+    },
+    {
+        "Unnamed: 0":97.0,
+        "Subject":"AR parttime job",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"confidence",
+        "Category":"job apply",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"AR parttime job"
+    },
+    {
+        "Unnamed: 0":98.0,
+        "Subject":"Studio",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"contentment",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"Studio"
+    },
+    {
+        "Unnamed: 0":99.0,
+        "Subject":"golf",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"joy",
+        "Category":"sports",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"golf"
+    },
+    {
+        "Unnamed: 0":100.0,
+        "Subject":"Studio check",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"relief",
+        "Category":"work",
+        "Duration":3.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"Studio check"
+    },
+    {
+        "Unnamed: 0":102.0,
+        "Subject":"DI presentation",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"calmness",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"DI presentation"
+    },
+    {
+        "Unnamed: 0":103.0,
+        "Subject":"AR assets parttime job",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"joy",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"AR assets parttime job"
+    },
+    {
+        "Unnamed: 0":105.0,
+        "Subject":"golf",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"joy",
+        "Category":"sports",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"golf"
+    },
+    {
+        "Unnamed: 0":106.0,
+        "Subject":"grocery+shopping",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"relief",
+        "Category":"leisure",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"grocery+shopping"
+    },
+    {
+        "Unnamed: 0":107.0,
+        "Subject":"web update",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"contentment",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"web update"
+    },
+    {
+        "Unnamed: 0":108.0,
+        "Subject":"ux hw",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"gratitude",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"ux hw"
+    },
+    {
+        "Unnamed: 0":109.0,
+        "Subject":"presentation",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"calmness",
+        "Category":"study",
+        "Duration":2.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"presentation"
+    },
+    {
+        "Unnamed: 0":110.0,
+        "Subject":"algorithm reading",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"calmness",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"algorithm reading"
+    },
+    {
+        "Unnamed: 0":111.0,
+        "Subject":"AR parttime job",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"contentment",
+        "Category":"work",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"AR parttime job"
+    },
+    {
+        "Unnamed: 0":112.0,
+        "Subject":"ux hw",
+        "Before Task Emotion":"concentration",
+        "After Task Emotion":"relief",
+        "Category":"study",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"ux hw"
+    },
+    {
+        "Unnamed: 0":113.0,
+        "Subject":"apply pitch",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"gratitude",
+        "Category":"job apply",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"apply pitch"
+    },
+    {
+        "Unnamed: 0":117.0,
+        "Subject":"parade\uff1f",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"relief",
+        "Category":"leisure",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"parade\uff1f"
+    },
+    {
+        "Unnamed: 0":118.0,
+        "Subject":"Portfolio",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"calmness",
+        "Category":"job apply",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":"Portfolio"
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Practice deep breathing or take a short walk to cool down.",
+        "Before Task Emotion":"anger",
+        "After Task Emotion":null,
+        "Category":null,
+        "Duration":0.3,
+        "High-Stress Emotion":"anger",
+        "Suggested Task":"Practice deep breathing or take a short walk to cool down."
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"5-minute meditation",
+        "Before Task Emotion":"anxiety",
+        "After Task Emotion":null,
+        "Category":null,
+        "Duration":0.1,
+        "High-Stress Emotion":"anxiety",
+        "Suggested Task":"5-minute meditation"
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflect on the source of negativity",
+        "Before Task Emotion":"contempt",
+        "After Task Emotion":null,
+        "Category":null,
+        "Duration":0.5,
+        "High-Stress Emotion":"contempt",
+        "Suggested Task":"Reflect on the source of negativity"
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Drink a glass of water and wait 10 minutes before acting.",
+        "Before Task Emotion":"craving",
+        "After Task Emotion":null,
+        "Category":null,
+        "Duration":0.3,
+        "High-Stress Emotion":"craving",
+        "Suggested Task":"Drink a glass of water and wait 10 minutes before acting."
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Channel energy into goal-setting or a productive task.",
+        "Before Task Emotion":"determination",
+        "After Task Emotion":null,
+        "Category":null,
+        "Duration":0.3,
+        "High-Stress Emotion":"determination",
+        "Suggested Task":"Channel energy into goal-setting or a productive task."
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Write down lessons learned and focus on the next steps.",
+        "Before Task Emotion":"disappointment",
+        "After Task Emotion":null,
+        "Category":null,
+        "Duration":0.3,
+        "High-Stress Emotion":"disappointment",
+        "Suggested Task":"Write down lessons learned and focus on the next steps."
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Express concerns constructively or journal feelings.",
+        "Before Task Emotion":"disapproval",
+        "After Task Emotion":null,
+        "Category":null,
+        "Duration":0.3,
+        "High-Stress Emotion":"disapproval",
+        "Suggested Task":"Express concerns constructively or journal feelings."
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Identify triggers and focus on a positive distraction.",
+        "Before Task Emotion":"disgust",
+        "After Task Emotion":null,
+        "Category":null,
+        "Duration":0.4,
+        "High-Stress Emotion":"disgust",
+        "Suggested Task":"Identify triggers and focus on a positive distraction."
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Progressive muscle relaxation.",
+        "Before Task Emotion":"distress",
+        "After Task Emotion":null,
+        "Category":null,
+        "Duration":1.0,
+        "High-Stress Emotion":"distress",
+        "Suggested Task":"Progressive muscle relaxation."
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Break the issue down and seek clarification or a second opinion.",
+        "Before Task Emotion":"doubt",
+        "After Task Emotion":null,
+        "Category":null,
+        "Duration":0.5,
+        "High-Stress Emotion":"doubt",
+        "Suggested Task":"Break the issue down and seek clarification or a second opinion."
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Practice self-care",
+        "Before Task Emotion":"empathicPain",
+        "After Task Emotion":null,
+        "Category":null,
+        "Duration":1.0,
+        "High-Stress Emotion":"empathicPain",
+        "Suggested Task":"Practice self-care"
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Imagine a positive outcome",
+        "Before Task Emotion":"fear",
+        "After Task Emotion":null,
+        "Category":null,
+        "Duration":0.3,
+        "High-Stress Emotion":"fear",
+        "Suggested Task":"Imagine a positive outcome"
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Acknowledge the mistake, make amends, and practice self-compassion.",
+        "Before Task Emotion":"guilt",
+        "After Task Emotion":null,
+        "Category":null,
+        "Duration":0.8,
+        "High-Stress Emotion":"guilt",
+        "Suggested Task":"Acknowledge the mistake, make amends, and practice self-compassion."
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Regain a sense of safety by grounding yourself in the present.",
+        "Before Task Emotion":"horror",
+        "After Task Emotion":null,
+        "Category":null,
+        "Duration":0.3,
+        "High-Stress Emotion":"horror",
+        "Suggested Task":"Regain a sense of safety by grounding yourself in the present."
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Physical or emotional self-care.",
+        "Before Task Emotion":"pain",
+        "After Task Emotion":null,
+        "Category":null,
+        "Duration":1.0,
+        "High-Stress Emotion":"pain",
+        "Suggested Task":"Physical or emotional self-care."
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Engage in an uplifting activity or talk to a supportive friend.",
+        "Before Task Emotion":"sadness",
+        "After Task Emotion":null,
+        "Category":null,
+        "Duration":2.0,
+        "High-Stress Emotion":"sadness",
+        "Suggested Task":"Engage in an uplifting activity or talk to a supportive friend."
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Challenge negative self-perceptions and practice self-kindness.",
+        "Before Task Emotion":"shame",
+        "After Task Emotion":null,
+        "Category":null,
+        "Duration":0.5,
+        "High-Stress Emotion":"shame",
+        "Suggested Task":"Challenge negative self-perceptions and practice self-kindness."
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Take a short nap, stretch, or hydrate for a quick energy boost.",
+        "Before Task Emotion":"tiredness",
+        "After Task Emotion":"tiredness",
+        "Category":null,
+        "Duration":0.5,
+        "High-Stress Emotion":"tiredness",
+        "Suggested Task":"Take a short nap, stretch, or hydrate for a quick energy boost."
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Practice deep breathing or take a short walk to cool down.",
+        "Before Task Emotion":"distress",
+        "After Task Emotion":"relief",
+        "Category":null,
+        "Duration":null,
+        "High-Stress Emotion":"anger",
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Try a 5-minute meditation or grounding exercise.",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"contentment",
+        "Category":null,
+        "Duration":null,
+        "High-Stress Emotion":"anxiety",
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflect on the source of negativity and reframe the thought.",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"contentment",
+        "Category":null,
+        "Duration":null,
+        "High-Stress Emotion":"contempt",
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Drink a glass of water and wait 10 minutes before acting.",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"relief",
+        "Category":null,
+        "Duration":null,
+        "High-Stress Emotion":"craving",
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Channel energy into goal-setting or a productive task.",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"contentment",
+        "Category":null,
+        "Duration":null,
+        "High-Stress Emotion":"determination",
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Write down lessons learned and focus on the next steps.",
+        "Before Task Emotion":"boredom",
+        "After Task Emotion":"contemplation",
+        "Category":null,
+        "Duration":null,
+        "High-Stress Emotion":"disappointment",
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Express concerns constructively or journal feelings.",
+        "Before Task Emotion":"boredom",
+        "After Task Emotion":"contemplation",
+        "Category":null,
+        "Duration":null,
+        "High-Stress Emotion":"disapproval",
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Identify triggers and focus on a positive distraction.",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"gratitude",
+        "Category":null,
+        "Duration":null,
+        "High-Stress Emotion":"disgust",
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Engage in a relaxation technique like progressive muscle relaxation.",
+        "Before Task Emotion":"anxiety",
+        "After Task Emotion":"calmness",
+        "Category":null,
+        "Duration":null,
+        "High-Stress Emotion":"distress",
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Break the issue down and seek clarification or a second opinion.",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"gratitude",
+        "Category":null,
+        "Duration":null,
+        "High-Stress Emotion":"doubt",
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Practice self-care and set emotional boundaries if needed.",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"joy",
+        "Category":null,
+        "Duration":null,
+        "High-Stress Emotion":"empathicPain",
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Use visualization techniques to imagine a positive outcome.",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"confidence",
+        "Category":null,
+        "Duration":null,
+        "High-Stress Emotion":"fear",
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Acknowledge the mistake, make amends, and practice self-compassion.",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"confidence",
+        "Category":null,
+        "Duration":null,
+        "High-Stress Emotion":"guilt",
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Regain a sense of safety by grounding yourself in the present.",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"confidence",
+        "Category":null,
+        "Duration":null,
+        "High-Stress Emotion":"horror",
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Take a moment for physical or emotional self-care.",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"contentment",
+        "Category":null,
+        "Duration":null,
+        "High-Stress Emotion":"pain",
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Engage in an uplifting activity or talk to a supportive friend.",
+        "Before Task Emotion":"distress",
+        "After Task Emotion":"gratitude",
+        "Category":null,
+        "Duration":null,
+        "High-Stress Emotion":"sadness",
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Challenge negative self-perceptions and practice self-kindness.",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"joy",
+        "Category":null,
+        "Duration":null,
+        "High-Stress Emotion":"shame",
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Take a short nap, stretch, or hydrate for a quick energy boost.",
+        "Before Task Emotion":"neutral",
+        "After Task Emotion":"gratitude",
+        "Category":null,
+        "Duration":null,
+        "High-Stress Emotion":"tiredness",
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for admiration",
+        "Before Task Emotion":"admiration",
+        "After Task Emotion":"gratitude",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for adoration",
+        "Before Task Emotion":"adoration",
+        "After Task Emotion":"contentment",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for aestheticAppreciation",
+        "Before Task Emotion":"aestheticAppreciation",
+        "After Task Emotion":"contentment",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for amusement",
+        "Before Task Emotion":"amusement",
+        "After Task Emotion":"joy",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for annoyance",
+        "Before Task Emotion":"annoyance",
+        "After Task Emotion":"joy",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Watch a nature documentary or space video",
+        "Before Task Emotion":"awe",
+        "After Task Emotion":"confidence",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for awkwardness",
+        "Before Task Emotion":"awkwardness",
+        "After Task Emotion":"joy",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for contemplation",
+        "Before Task Emotion":"contemplation",
+        "After Task Emotion":"contentment",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for confusion",
+        "Before Task Emotion":"confusion",
+        "After Task Emotion":"joy",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for contentment",
+        "Before Task Emotion":"contentment",
+        "After Task Emotion":"contentment",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for ecstasy",
+        "Before Task Emotion":"ecstasy",
+        "After Task Emotion":"joy",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for embarrassment",
+        "Before Task Emotion":"embarrassment",
+        "After Task Emotion":"contentment",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for enthusiasm",
+        "Before Task Emotion":"enthusiasm",
+        "After Task Emotion":"gratitude",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for entrancement",
+        "Before Task Emotion":"entrancement",
+        "After Task Emotion":"confidence",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for envy",
+        "Before Task Emotion":"envy",
+        "After Task Emotion":"confidence",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for excitement",
+        "Before Task Emotion":"excitement",
+        "After Task Emotion":"gratitude",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for gratitude",
+        "Before Task Emotion":"gratitude",
+        "After Task Emotion":"contentment",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for interest",
+        "Before Task Emotion":"interest",
+        "After Task Emotion":"contentment",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for joy",
+        "Before Task Emotion":"joy",
+        "After Task Emotion":"gratitude",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for love",
+        "Before Task Emotion":"love",
+        "After Task Emotion":"joy",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for nostalgia",
+        "Before Task Emotion":"nostalgia",
+        "After Task Emotion":"calmness",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for pride",
+        "Before Task Emotion":"pride",
+        "After Task Emotion":"relief",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for realization",
+        "Before Task Emotion":"realization",
+        "After Task Emotion":"confidence",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for relief",
+        "Before Task Emotion":"relief",
+        "After Task Emotion":"gratitude",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for romance",
+        "Before Task Emotion":"romance",
+        "After Task Emotion":"confidence",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for sarcasm",
+        "Before Task Emotion":"sarcasm",
+        "After Task Emotion":"confidence",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Log a recent win in your journal",
+        "Before Task Emotion":"satisfaction",
+        "After Task Emotion":"confidence",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for sexualDesire",
+        "Before Task Emotion":"sexualDesire",
+        "After Task Emotion":"joy",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for surprise",
+        "Before Task Emotion":"surprise",
+        "After Task Emotion":"calmness",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for surpriseNegative",
+        "Before Task Emotion":"surpriseNegative",
+        "After Task Emotion":"calmness",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for surprisePositive",
+        "Before Task Emotion":"surprisePositive",
+        "After Task Emotion":"calmness",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for sympathy",
+        "Before Task Emotion":"sympathy",
+        "After Task Emotion":"contentment",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflective task for triumph",
+        "Before Task Emotion":"triumph",
+        "After Task Emotion":"confidence",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Practice deep breathing or take a short walk to cool down.",
+        "Before Task Emotion":"anger",
+        "After Task Emotion":"relief",
+        "Category":"physical",
+        "Duration":0.8,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Try a 5-minute meditation or grounding exercise.",
+        "Before Task Emotion":"anxiety",
+        "After Task Emotion":"calmness",
+        "Category":"physical",
+        "Duration":0.6,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Reflect on the source of negativity and reframe the thought.",
+        "Before Task Emotion":"contempt",
+        "After Task Emotion":"relief",
+        "Category":"reflective",
+        "Duration":0.4,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Drink a glass of water and wait 10 minutes before acting.",
+        "Before Task Emotion":"craving",
+        "After Task Emotion":"relief",
+        "Category":"self-care",
+        "Duration":1.1,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Channel energy into goal-setting or a productive task.",
+        "Before Task Emotion":"determination",
+        "After Task Emotion":"relief",
+        "Category":"self-care",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Write down lessons learned and focus on the next steps.",
+        "Before Task Emotion":"disappointment",
+        "After Task Emotion":"relief",
+        "Category":"reflective",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Express concerns constructively or journal feelings.",
+        "Before Task Emotion":"disapproval",
+        "After Task Emotion":"relief",
+        "Category":"reflective",
+        "Duration":1.1,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Identify triggers and focus on a positive distraction.",
+        "Before Task Emotion":"disgust",
+        "After Task Emotion":"relief",
+        "Category":"self-care",
+        "Duration":0.7,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Engage in a relaxation technique like progressive muscle relaxation.",
+        "Before Task Emotion":"distress",
+        "After Task Emotion":"relief",
+        "Category":"self-care",
+        "Duration":1.1,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Break the issue down and seek clarification or a second opinion.",
+        "Before Task Emotion":"doubt",
+        "After Task Emotion":"relief",
+        "Category":"self-care",
+        "Duration":0.4,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Practice self-care and set emotional boundaries if needed.",
+        "Before Task Emotion":"empathicPain",
+        "After Task Emotion":"relief",
+        "Category":"self-care",
+        "Duration":0.3,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Use visualization techniques to imagine a positive outcome.",
+        "Before Task Emotion":"fear",
+        "After Task Emotion":"confidence",
+        "Category":"self-care",
+        "Duration":0.6,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Acknowledge the mistake, make amends, and practice self-compassion.",
+        "Before Task Emotion":"guilt",
+        "After Task Emotion":"relief",
+        "Category":"self-care",
+        "Duration":0.7,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Regain a sense of safety by grounding yourself in the present.",
+        "Before Task Emotion":"horror",
+        "After Task Emotion":"relief",
+        "Category":"self-care",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Take a moment for physical or emotional self-care.",
+        "Before Task Emotion":"pain",
+        "After Task Emotion":"relief",
+        "Category":"self-care",
+        "Duration":0.4,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Engage in an uplifting activity or talk to a supportive friend.",
+        "Before Task Emotion":"sadness",
+        "After Task Emotion":"contentment",
+        "Category":"social",
+        "Duration":0.5,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Challenge negative self-perceptions and practice self-kindness.",
+        "Before Task Emotion":"shame",
+        "After Task Emotion":"relief",
+        "Category":"self-care",
+        "Duration":0.6,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    },
+    {
+        "Unnamed: 0":null,
+        "Subject":"Take a short nap, stretch, or hydrate for a quick energy boost.",
+        "Before Task Emotion":"tiredness",
+        "After Task Emotion":"relief",
+        "Category":"physical",
+        "Duration":1.0,
+        "High-Stress Emotion":null,
+        "Suggested Task":null
+    }
+]
