@@ -1,9 +1,9 @@
 export const dynamic = 'force-dynamic';
 
 import { getHumeAccessToken } from "@/utils/getHumeAccessToken";
-import dynamic from "next/dynamic";
+import nextDynamic from "next/dynamic";
 
-const Chat = dynamic(() => import("@/components/Chat"), {
+const Chat = nextDynamic(() => import("@/components/Chat"), {
   ssr: false,
 });
 
