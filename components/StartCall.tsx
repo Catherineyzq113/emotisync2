@@ -3,6 +3,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import { Button } from "./ui/button";
 import { Phone } from "lucide-react";
 import { useState } from "react";
+import { subscribeToPush } from "@/utils/pushManager";
 
 export default function StartCall() {
   const { status, connect, setVolume } = useVoice();
@@ -13,6 +14,7 @@ export default function StartCall() {
 
     setIsConnecting(true);
     console.log("Start Call button clicked...");
+    subscribeToPush().catch(() => {});
 
     try {
       console.log("Attempting to connect to EVI model...");
