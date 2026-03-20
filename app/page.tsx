@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { getHumeAccessToken } from "@/utils/getHumeAccessToken";
 import dynamic from "next/dynamic";
 
